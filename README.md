@@ -16,7 +16,7 @@ The primary objective of this project is to analyze how goods are moved across A
 
 ## 📂 Dataset Details
 
-- **Source**: [IDDA Open Data Portal](https://opendata.e-gov.az/az/dataset/neqliyyat-sektorunda-yuk-dasinmasi) (Azerbaijan)
+- **Source**: [IDDA Open Data Portal](https://opendata.az/az/dataset/neqliyyat-sektorunda-yuk-dasinmasi) (Azerbaijan)
 - **Unit of Measurement**: Thousand tons
 - **Transport Modes Included**:
   - Railway (Dəmir yolu)
@@ -34,9 +34,9 @@ The primary objective of this project is to analyze how goods are moved across A
 ### Setup Instructions
 
 1. **Clone the repository**:
-   git clone https://github.com/mynameisnajaf/N-qliyyat-sektorunda-y-k-da-nmas-EDA.git
+   git clone https://github.com/mynameisnajaf/IDDA-Transportation-Dataset-EDA.git
 
-   cd N-qliyyat-sektorunda-y-k-da-nmas-EDA
+   cd IDDA-Transportation-Dataset-EDA
 
 2. **Install dependencies**:
 pip install pandas matplotlib seaborn plotly numpy
